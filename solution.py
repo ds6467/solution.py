@@ -13,7 +13,7 @@ def welcome_assignment_answers(question):
         answer = "Yes"
     elif question == "Is a hashed message supposed to be un-hashed? - Yes/No":
         answer = "No"
-    elif question == "What is the MD5 hashing value to the following message:'NYU Computer Networking'":
+    elif question == "What is the MD5 hashing value to the following message":
         answer = "6a82de3b465b42fd08ce9b36552508e111919118"
     elif question == "Is MD5 a secured hashing algorithm? - Yes/No":
         answer = "No"
